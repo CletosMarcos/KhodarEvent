@@ -1,4 +1,4 @@
-package com.mariomanhique.khodarevent.presentation.screens.splash.navigation
+package com.cletosbambo.khodarevent.presentation.screens.splash.navigation
 
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
